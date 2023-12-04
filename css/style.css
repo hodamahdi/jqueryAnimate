@@ -1,0 +1,9 @@
+section
+{
+    width: 5px;
+    height:5px;
+}
+.item ,h2
+{
+    display: none;
+}
